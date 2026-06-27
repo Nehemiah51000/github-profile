@@ -1,0 +1,34 @@
+[
+  {
+    "id": "quest001",
+    "name": "Rafidi",
+    "description": "Intentional living — journaling, habits, and the discipline of showing up",
+    "status": "forging",
+    "emoji": "📓",
+    "url": ""
+  },
+  {
+    "id": "quest002",
+    "name": "My Daftari",
+    "description": "Business tools built for Kenyan entrepreneurs — technology that understands its context",
+    "status": "forging",
+    "emoji": "🏪",
+    "url": ""
+  },
+  {
+    "id": "quest003",
+    "name": "Kingdom Stats",
+    "description": "This very system — a living GitHub profile powered by a custom SVG API",
+    "status": "active",
+    "emoji": "🏰",
+    "url": "https://github.com/YOUR_USERNAME/kingdom-stats"
+  },
+  {
+    "id": "quest004",
+    "name": "Debut Album",
+    "description": "Music is another programming language. The compiler is human emotion. Planned for 2027.",
+    "status": "dreaming",
+    "emoji": "🎵",
+    "url": ""
+  }
+]
