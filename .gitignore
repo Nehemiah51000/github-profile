@@ -20,6 +20,8 @@
 # production
 /build
 
+
+
 # misc
 .DS_Store
 *.pem
@@ -39,3 +41,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# ─── Editor ──────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+ 
+# ─── pnpm ────────────────────────────────────────────────────────────────────
+# Keep pnpm-lock.yaml in the repo — it guarantees reproducible installs
+# but ignore the local store cache
+.pnpm-store/
