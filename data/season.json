@@ -1,34 +1,44 @@
-[
-  {
-    "id": "quest001",
-    "name": "Rafidi",
-    "description": "Intentional living — journaling, habits, and the discipline of showing up",
-    "status": "forging",
-    "emoji": "📓",
-    "url": ""
-  },
-  {
-    "id": "quest002",
-    "name": "My Daftari",
-    "description": "Business tools built for Kenyan entrepreneurs — technology that understands its context",
-    "status": "forging",
-    "emoji": "🏪",
-    "url": ""
-  },
-  {
-    "id": "quest003",
-    "name": "Kingdom Stats",
-    "description": "This very system — a living GitHub profile powered by a custom SVG API",
-    "status": "active",
-    "emoji": "🏰",
-    "url": "https://github.com/YOUR_USERNAME/kingdom-stats"
-  },
-  {
-    "id": "quest004",
-    "name": "Debut Album",
-    "description": "Music is another programming language. The compiler is human emotion. Planned for 2027.",
-    "status": "dreaming",
-    "emoji": "🎵",
-    "url": ""
+{
+  "current": "forging",
+  "detail": "Building the Kingdom — one endpoint at a time",
+  "updatedAt": "2026-06-27",
+
+  "seasons": {
+    "planting": {
+      "emoji": "🌱",
+      "label": "Planting",
+      "color": "#4ade80",
+      "description": "Gathering ideas, researching, preparing the ground"
+    },
+    "forging": {
+      "emoji": "🔥",
+      "label": "Forging",
+      "color": "#f97316",
+      "description": "Deep in the build — heads down, shipping fast"
+    },
+    "exploring": {
+      "emoji": "🌊",
+      "label": "Exploring",
+      "color": "#38bdf8",
+      "description": "Learning something new, no destination yet"
+    },
+    "dreaming": {
+      "emoji": "🌌",
+      "label": "Dreaming",
+      "color": "#a78bfa",
+      "description": "Big picture thinking, connecting dots"
+    },
+    "climbing": {
+      "emoji": "🏔",
+      "label": "Climbing",
+      "color": "#94a3b8",
+      "description": "Pushing through hard problems, steep terrain"
+    },
+    "harvesting": {
+      "emoji": "🌾",
+      "label": "Harvesting",
+      "color": "#fbbf24",
+      "description": "Wrapping up, documenting, releasing work"
+    }
   }
-]
+}
