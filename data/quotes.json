@@ -1,0 +1,52 @@
+[
+  {
+    "id": "q001",
+    "text": "Technology should amplify human potential, not replace it.",
+    "context": "The compass — the belief that started the kingdom"
+  },
+  {
+    "id": "q002",
+    "text": "The goal isn't a world without problems. The goal is a world with better problems.",
+    "context": "On progress"
+  },
+  {
+    "id": "q003",
+    "text": "I don't think programming is about writing code. I think it's about drawing maps where none existed before.",
+    "context": "On building"
+  },
+  {
+    "id": "q004",
+    "text": "Every project starts as a question. Every question becomes a path. Every path becomes another piece of the kingdom.",
+    "context": "On exploration"
+  },
+  {
+    "id": "q005",
+    "text": "The flame doesn't burn because of motivation. It burns because of discipline.",
+    "context": "On the forge"
+  },
+  {
+    "id": "q006",
+    "text": "From ignorance to understanding. From confusion to clarity. One deliberate step at a time.",
+    "context": "The mantra"
+  },
+  {
+    "id": "q007",
+    "text": "Music is another programming language. Except the compiler is human emotion.",
+    "context": "On music"
+  },
+  {
+    "id": "q008",
+    "text": "Technology should solve yesterday's challenges so humanity can wrestle with tomorrow's.",
+    "context": "On purpose"
+  },
+  {
+    "id": "q009",
+    "text": "The destination isn't mastery. The destination is becoming someone who never stops exploring.",
+    "context": "On the journey"
+  },
+  {
+    "id": "q010",
+    "text": "Every kingdom begins with a single stone.",
+    "context": "On starting"
+  }
+]
